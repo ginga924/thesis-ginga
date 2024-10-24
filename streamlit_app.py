@@ -1,11 +1,12 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
 import mysql.connector
+import pandas as pd
+import json
 import pickle
-from datetime import datetime
+import numpy as np
 import matplotlib.pyplot as plt
 from prophet import Prophet
+from datetime import datetime 
 
 # Load the trained model
 @st.cache_resource

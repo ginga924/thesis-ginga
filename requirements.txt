@@ -5,3 +5,4 @@ matplotlib
 mysql-connector-python
 prophet
 pickle5
+json
