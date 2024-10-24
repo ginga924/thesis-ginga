@@ -1,7 +1,8 @@
 streamlit
 google-generativeai
 numpy
-pandas 
+pandas
+mysqlclient
 mysql-connector-python 
 matplotlib 
 prophet
