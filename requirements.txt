@@ -1,1 +1,7 @@
 streamlit
+google-generativeai
+numpy
+pandas 
+mysql-connector-python 
+matplotlib 
+prophet
