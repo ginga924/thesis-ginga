@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-matplotlib
 mysql-connector-python
+matplotlib
 prophet
 pickle5
 json
