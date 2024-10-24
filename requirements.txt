@@ -1,8 +1,7 @@
 streamlit
-google-generativeai
-numpy
 pandas
-mysqlclient
-mysql-connector-python 
-matplotlib 
+numpy
+matplotlib
+mysql-connector-python
 prophet
+pickle5
